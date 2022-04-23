@@ -77,6 +77,7 @@ cv2.destroyAllWindows
 
 ### Histogram of Grayscale Image and any channel of Color Image
 ![output](./output2..png)
+![output](./output2.png)
 <br>
 
 ### Histogram Equalization of Grayscale Image
