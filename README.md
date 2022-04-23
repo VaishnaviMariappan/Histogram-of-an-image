@@ -24,7 +24,6 @@ Equalize the grayscale image using the in-built function cv2.equalizeHist().
 
 ### Step5:
 Print the original and equalized image using cv2.imshow() and end the program.
-<br>
 
 ## Program:
 ```python
@@ -75,7 +74,6 @@ cv2.destroyAllWindows
 ## Output:
 ### Input Grayscale Image and Color Image
 ![input](./output1..png)
-<br>
 
 ### Histogram of Grayscale Image and any channel of Color Image
 ![output](./output2..png)
